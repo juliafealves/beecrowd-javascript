@@ -3,6 +3,8 @@
 > Jean Bez, URI Online Judge  Brasil
 > 
 > Timelimit: 1
+> 
+> `INICIANTE | NÍVEL 5 | + 5.0 PONTOS | BASE TIME LIMIT: 1 SECOND | MEMORY LIMIT: 200 MB`
 
 
 Bem-vindo ao URI Online Judge!
