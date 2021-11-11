@@ -1,5 +1,3 @@
-# Beecrowd Online Judge! 
-
 ![Beecrowd](https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036)
 
 ## Problems Solved with JavaScript/Node.
