@@ -5,3 +5,4 @@
 - [1000 Hello World!](https://www.beecrowd.com.br/repository/UOJ_1000_en.html)
 - [1001 Extremely Basic](https://www.beecrowd.com.br/repository/UOJ_1001_en.html)
 - [1002 Area of a Circle](https://www.beecrowd.com.br/repository/UOJ_1002_en.html)
+- [1003 Simple Sum](https://www.beecrowd.com.br/repository/UOJ_1003_en.html)
